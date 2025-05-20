@@ -1,0 +1,105 @@
+---
+title: "Ganar, gobernar… y volver a ganar"
+author: "Patricia del Amo, Eva Fernández y Javier García"
+format:
+  revealjs: 
+    theme: [default, prueba.css]
+    #footer: "<strong>Trabajo final</strong>"
+    transition: fade
+editor: visual
+---
+
+## ¿De qué vamos a hablar?
+
+En 2023, muchos alcaldes que ya estaban en el cargo salieron reforzados en las urnas.\
+Especialmente si habían sido los más votados en 2019.\
+Esa combinación —**ganar y gobernar**— parece contar.
+
+## Ganar y gobernar es la clave
+
+```{r}
+library(knitr)
+include_url("https://datawrapper.dwcdn.net/lbM5N/8/", 
+            height = "600px")
+```
+
+## Y la ventaja electoral también ayuda
+
+```{r}
+library(knitr)
+include_url("http://datawrapper.dwcdn.net/9XHK0/2/", 
+            height = "600px")
+```
+
+## ¿Y en los municipios pequeños?
+
+```{r}
+library(knitr)
+include_url("https://datawrapper.dwcdn.net/rvcS3/6/", 
+            height = "600px")
+```
+
+## El género entra en juego...
+
+```{r}
+library(knitr)
+include_url("https://datawrapper.dwcdn.net/wf04o/3/", 
+            height = "600px")
+```
+
+## Mapa de coincidencia
+
+```{r}
+library(knitr)
+include_url("https://datawrapper.dwcdn.net/BcuCd/5/", 
+            height = "600px")
+```
+
+## ¿Qué pasó en tu municipio?
+
+```{r}
+
+library(knitr)
+include_url("https://datawrapper.dwcdn.net/bRPoA/6/", 
+            height = "600px")
+```
+
+## PP vs PSOE
+
+```{r}
+include_url("https://datawrapper.dwcdn.net/PhTBk/8/", 
+            height = "600px")
+```
+
+## ¿Y en las capitales de provincia?
+
+```{r}
+include_url("https://datawrapper.dwcdn.net/jOc0H/4/", 
+            height = "600px")
+```
+
+## El género de nuestros alcaldes
+
+```{r}
+include_url("https://datawrapper.dwcdn.net/VlU2B/7/", 
+            height = "600px")
+```
+
+## ¿Cómo hemos construido nuestro código?
+
+1.  Integración y limpieza de datos multifuente.
+2.  Homogeneización semántica de variables clave.
+3.  Evaluación de coincidencia política y análisis de representación.
+4.  Visualización automatizada.
+
+## Y para acabar...
+
+::: {style="text-align: center;"}
+<video width="800" controls>
+
+<source src="media/video.mp4" type="video/mp4">
+
+:::
+
+:::
+:::
