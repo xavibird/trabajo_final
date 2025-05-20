@@ -27,7 +27,7 @@ include_url("https://datawrapper.dwcdn.net/lbM5N/8/",
 
 ```{r}
 library(knitr)
-include_url("http://datawrapper.dwcdn.net/9XHK0/2/", 
+include_url("https://datawrapper.dwcdn.net/lbM5N/8/", 
             height = "600px")
 ```
 
