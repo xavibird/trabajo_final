@@ -27,7 +27,7 @@ include_url("https://datawrapper.dwcdn.net/lbM5N/8/",
 
 ```{r}
 library(knitr)
-include_url("https://datawrapper.dwcdn.net/9XHK0/2/", 
+include_url("http://datawrapper.dwcdn.net/9XHK0/2/", 
             height = "600px")
 ```
 
@@ -60,7 +60,7 @@ include_url("https://datawrapper.dwcdn.net/BcuCd/5/",
 ```{r}
 
 library(knitr)
-include_url("https://datawrapper.dwcdn.net/bRPoA/6/", 
+include_url("https://datawrapper.dwcdn.net/bRPoA/7/", 
             height = "600px")
 ```
 
